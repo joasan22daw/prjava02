@@ -1,0 +1,9 @@
+1. git clone https://github.com/dacomo2021daw2/prjava02.git
+5. git checkout main
+6. No es pot veure l'ultima linia perque la ultima linia solament ha sigut modificada en la branca branca00.
+7. git checkout branca00. Es pot veure la ultima linia ja que el fitxer modificat estava a la branca branca00. 
+10b. git merge branca00
+12. git push origin main
+12c. Perque solament s'ha fet el merge de la branca main.
+14a. git push origin branca00
+14c. 1 commit. 
